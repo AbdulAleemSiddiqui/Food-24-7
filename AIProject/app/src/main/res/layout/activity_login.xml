@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".LoginActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/email_login_form"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="50dp"
+                android:layout_height="50dp"
+                android:text="Food 24/7"
+                android:textColor="#ffffff"
+                android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+
+            <EditText
+                android:id="@+id/phone"
+                android:layout_width="340dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="40dp"
+                android:hint="Phone no"
+                android:textColorHint="#ffffff"
+                android:text="3923104"
+                android:digits="1234567890"
+                android:inputType="phone"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:textColor="#ffffff" />
+
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="340dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="20dp"
+                android:hint="Password"
+                android:textColorHint="#ffffff"
+                android:text="1234"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:textColor="#ffffff" />
+
+            <Button
+                android:id="@+id/signIn"
+                style="?android:textAppearanceSmall"
+                android:layout_width="340dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:background="#ffffff"
+                android:text="SIGN IN"
+                android:textColor="#000000"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/signupTxt"
+                style="?android:textAppearanceSmall"
+                android:layout_width="179dp"
+                android:layout_height="31dp"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="Don't have an account?"
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

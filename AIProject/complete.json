@@ -1,0 +1,449 @@
+{
+  "User": {
+    "3923104": {
+      "name": "Asad",
+      "password": "1234",
+      "email": "asad@gmail.com"
+    }	
+  },
+  "category": {
+    "01": {
+      "name": "Fast Food",
+      "image": "https://d33oocx83zywzt.cloudfront.net/img650_new/10101801210.jpg"
+    },
+    "02": {
+      "name": "BBQ",
+      "image": "https://cdn.vox-cdn.com/thumbor/tung17g3Mi4nwEr-A3ybs1uCpZ4=/0x53:1024x629/1600x900/cdn.voxcdn.com/uploads/chorus_image/image/38805066/Yakitori-Shibuya-Tokyo.0.jpeg"
+    },
+    "03": {
+      "name": "Pizza",
+      "image": "https://www.kindmeal.my/photos/item/0/283-2926-l.jpg"
+    },
+    "04": {
+      "name": "Karahi",
+      "image": "https://3.bp.blogspot.com/-qKE4fpV7Ybk/WsCz_bPZ3VI/AAAAAAAAKI4/gnjKTdY0SBkVebzolzVYRMZMwaWOfQ_OACLcBGAs/s1600/Pakistani-KArahi.jpg"
+    },
+    "05": {
+      "name": "Chinese Food",
+      "image": "https://qph.fs.quoracdn.net/main-qimg-922145d2f7d39e161f934923dde8bc95"
+    }
+  },
+  
+    "fastfood": {
+    "1": {
+	  "sno": "1",
+      "foodname": "Beef Burger",
+      "foodprice": "120"
+    },
+    "2": {
+	  "sno": "2",
+      "foodname": "Chicken Burger",
+      "foodprice": "120"
+    },
+    "3": {
+	  "sno": "3",	
+      "foodname": "Zinger Burger",
+      "foodprice": "220"
+    },
+    "4": {
+	  "sno": "4",
+      "foodname": "Jumbo Zinger Burger",
+      "foodprice": "350"
+    },
+    "5": {
+	  "sno": "5",
+      "foodname": "Crispy Broast QTR.",
+      "foodprice": "250"
+    },
+    "6": {
+	  "sno": "6",
+      "foodname": "Club Sandwich",
+      "foodprice": "180"
+    },
+    "7": {
+	  "sno": "7",
+      "foodname": "Chicken Twister Roll",
+      "foodprice": "150"
+    },
+    "8": {
+	  "sno": "8",
+      "foodname": "Cheese Fries",
+      "foodprice": "150"
+    },
+    "9": {
+	  "sno": "9",
+      "foodname": "Mayo Garlic Fries",
+      "foodprice": "120"
+    },
+    "10": {
+	  "sno": "10",
+      "foodname": "Masala Fries",
+      "foodprice": "80"
+    }
+  },
+  "barbque": {
+    "1": {
+	  "sno": "1",
+      "foodname": "Chicken Tikka",
+      "foodprice": "250"
+    },
+    "2": {
+	  "sno": "2",
+      "foodname": "Chicken Malai Boti",
+      "foodprice": "300"
+    },
+    "3": {
+	  "sno": "3",
+      "foodname": "Beef Behari Boti",
+      "foodprice": "300"
+    },
+    "4": {
+	  "sno": "4",
+      "foodname": "Seekh Kabab",
+      "foodprice": "350"
+    },
+    "5": {
+	  "sno": "5",
+      "foodname": "Reshmi Kabab",
+      "foodprice": "330"
+    },
+    "6": {
+	  "sno": "6",
+      "foodname": "Gola Kabab",
+      "foodprice": "250"
+    },
+    "7": {
+	  "sno": "7",
+      "foodname": "Beef Roll",
+      "foodprice": "120"
+    },
+    "8": {
+	  "sno": "8",
+      "foodname": "Chicken Roll",
+      "foodprice": "150"
+    },
+    "9": {
+	  "sno": "9",
+      "foodname": "Kabab Roll",
+      "foodprice": "100"
+    },
+    "10": {
+	  "sno": "10",
+      "foodname": "Special Kabab Boti",
+      "foodprice": "400"
+    }
+  },
+  "karahi": {
+    "1": {
+	  "sno": "1",
+      "foodname": "Chicken Karahi FULL",
+      "foodprice": "900"
+    },
+    "2": {
+	  "sno": "2",
+      "foodname": "Chicken Karahi HALF",
+      "foodprice": "500"
+    },
+    "3": {
+	  "sno": "3",
+      "foodname": "Mutton Karahi FULL",
+      "foodprice": "1700"
+    },
+    "4": {
+	  "sno": "4",
+      "foodname": "Mutton Karahi HALF",
+      "foodprice": "900"
+    },
+    "5": {
+	  "sno": "5",
+      "foodname": "White Karahi FULL",
+      "foodprice": "1100"
+    },
+    "6": {
+	  "sno": "6",
+      "foodname": "White Karahi HALF",
+      "foodprice": "600"
+    },
+    "7": {
+	  "sno": "7",
+      "foodname": "Handi FULL",
+      "foodprice": "1000"
+    },
+    "8": {
+	  "sno": "8",
+      "foodname": "Handi HALF",
+      "foodprice": "500"
+    },
+    "9": {
+	  "sno": "9",
+      "foodname": "Jangli Karahi FULL",
+      "foodprice": "1000"
+    },
+    "10": {
+	  "sno": "10",
+      "foodname": "Jangli Karahi HALF",
+      "foodprice": "500"
+    },
+    "11": {
+	  "sno": "11",
+      "foodname": "Peshawari Karahi FULL",
+      "foodprice": "1600"
+    },
+    "12": {
+	  "sno": "12",
+      "foodname": "Peshawari Karahi HALF",
+      "foodprice": "850"
+    }
+  },
+  "Chinese": {
+    "1": {
+	  "sno": "1",
+      "foodname": "Chicken Sashlik with Rice",
+      "foodprice": "350"
+    },
+    "2": {
+	  "sno": "2",
+      "foodname": "Chicken Jalfrazi with Rice",
+      "foodprice": "350"
+    },
+    "3": {
+	  "sno": "3",
+      "foodname": "Chicken Manchurian with Rice",
+      "foodprice": "350"
+    },
+    "4": {
+	  "sno": "4",
+      "foodname": "Chicken Fried Rice",
+      "foodprice": "200"
+    },
+    "5": {
+	  "sno": "5",
+      "foodname": "Beef Fried Rice",
+      "foodprice": "220"
+    },
+    "6": {
+	  "sno": "6",
+      "foodname": "Vegetable Fried Rice",
+      "foodprice": "180"
+    },
+    "7": {
+	  "sno": "7",
+      "foodname": "Chicken Chili with Rice",
+      "foodprice": "370"
+    },
+    "8": {
+	  "sno": "8",
+      "foodname": "Beef Chili with Rice",
+      "foodprice": "390"
+    },
+    "9": {
+	  "sno": "9",
+      "foodname": "Chicken Chowmien",
+      "foodprice": "300"
+    },
+    "10": {
+	  "sno": "10",
+      "foodname": "Vegetable Chowmien",
+      "foodprice": "280"
+    },
+    "11": {
+	  "sno": "11",
+      "foodname": "Beef Chowmien",
+      "foodprice": "320"
+    }
+  },
+  "pizza": {
+    "1": {
+	  "sno": "1",
+      "flavor": "Chicken Fajita"
+    },
+    "2": {
+	  "sno": "2",
+      "flavor": "Chicken Malai Boti"
+    },
+    "3": {
+	  "sno": "3",
+      "flavor": "Chicken Tikka"
+    },
+    "4": {
+	  "sno": "4",
+      "flavor": "Beef Sicilian"
+    },
+    "5": {
+	  "sno": "5",
+      "flavor": "Cheese Lover's"
+    },
+    "6": {
+	  "sno": "6",
+      "flavor": "Vegetable Lover's"
+    },
+    "7": {
+	  "sno": "7",
+      "flavor": "Arabian Grill"
+    },
+    "8": {
+	  "sno": "8",
+      "flavor": "Shawarma"
+    }
+  },
+  
+    "commandIdentifier": {
+    "burger": {
+      "result": "fastfood"
+    },
+    "pizza": {
+      "result": "pizza"
+    },
+    "barbecue": {
+      "result": "bbq"
+    },
+    "tikka": {
+      "result": "bbq"
+    },
+    "5": {
+      "command": "kabab",
+      "result": "bbq"
+    },
+    "6": {
+      "command": "chicken karahi",
+      "result": "karahi"
+    },
+    "7": {
+      "command": "mutton karahi",
+      "result": "karahi"
+    },
+    "8": {
+      "command": "beef karahi",
+      "result": "karahi"
+    },
+    "9": {
+      "command": "chinese",
+      "result": "chinese"
+    },
+    "10": {
+      "command": "fried rice",
+      "result": "chinese"
+    },
+    "11": {
+      "command": "chowmein",
+      "result": "chinese"
+    },
+    "12": {
+      "command": "zinger burger",
+      "result": "fastfood"
+    },
+    "13": {
+      "command": "jumbo zinger burger",
+      "result": "fastfood"
+    },
+    "14": {
+      "command": "beef burger",
+      "result": "fastfood"
+    },
+    "15": {
+      "command": "chicken burger",
+      "result": "fastfood"
+    },
+    "16": {
+      "command": "broast",
+      "result": "fastfood"
+    },
+    "17": {
+      "command": "club sandwich",
+      "result": "fast food"
+    },
+    "18": {
+      "command": "chicken twister roll",
+      "result": "fast food"
+    },
+    "19": {
+      "command": "fries",
+      "result": "fast food"
+    },
+    "20": {
+      "command": "chicken tikka",
+      "result": "bbq"
+    },
+    "21": {
+      "command": "chicken malai boti",
+      "result": "bbq"
+    },
+    "22": {
+      "command": "beef behari boti",
+      "result": "bbq"
+    },
+    "23": {
+      "command": "seekh kabab",
+      "result": "bbq"
+    },
+    "24": {
+      "command": "reshmi kabab",
+      "result": "bbq"
+    },
+    "25": {
+      "command": "gola kabab",
+      "result": "bbq"
+    },
+    "26": {
+      "command": "beef roll",
+      "result": "bbq"
+    },
+    "27": {
+      "command": "chicken roll",
+      "result": "bbq"
+    },
+    "28": {
+      "command": "kabab roll",
+      "result": "bbq"
+    },
+    "29": {
+      "command": "jalfrazi",
+      "result": "chinese"
+    },
+    "30": {
+      "command": "sashlik",
+      "result": "chinese"
+    },
+    "31": {
+      "command": "manchurian",
+      "result": "chinese"
+    },
+    "32": {
+      "command": "pizza chicken tikka",
+      "result": "pizza"
+    },
+    "33": {
+      "command": "pizza chicken malai",
+      "result": "pizza"
+    },
+    "34": {
+      "command": "pizza fajita",
+      "result": "pizza"
+    },
+    "35": {
+      "command": "beef sicilian",
+      "result": "pizza"
+    },
+    "36": {
+      "command": "pizza cheese lover",
+      "result": "pizza"
+    },
+    "37": {
+      "command": "pizza vegetable lover",
+      "result": "pizza"
+    },
+    "38": {
+      "command": "pizza arabian grill",
+      "result": "pizza"
+    },
+    "40": {
+      "command": "pizza shawarma",
+      "result": "pizza"
+    },
+    "41": {
+      "command": "pizza barbecue",
+      "result": "pizza"
+    }
+  }
+  
+}

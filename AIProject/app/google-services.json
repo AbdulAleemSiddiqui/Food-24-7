@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "511308440394",
+    "firebase_url": "https://voicefoodapp.firebaseio.com",
+    "project_id": "voicefoodapp",
+    "storage_bucket": "voicefoodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511308440394:android:fca3226d0d7c7d3a",
+        "android_client_info": {
+          "package_name": "com.asad.sid.aifoodordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511308440394-cgak5tjdb3c8m6dgbu35ooiejg1g0o5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asad.sid.aifoodordering",
+            "certificate_hash": "ef99ac6b86cd6b87a739e6b76b1bf461c249032d"
+          }
+        },
+        {
+          "client_id": "511308440394-un8spduqdmn2gfbqqbrvvnnqq138nho7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxbkvZwbM6wl7oAo_-NgHAp7npsk5bo24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511308440394-un8spduqdmn2gfbqqbrvvnnqq138nho7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
